@@ -9,9 +9,6 @@ Rather than fitting the model to data, we analyze how model parameters
 (shape of synaptic responses, excitatory gain, and noise)
 control resonance frequency and power.
 
-part1 first_order_dynamics
-part2 second_order_resonance
-part3 jansen_rit_and_eeg
 
 ## Key Questions
 
